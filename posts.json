@@ -1,0 +1,38 @@
+[
+    {
+        "text" : "I hate python because its different from other language and its boring.",
+        "age" : "20",
+        "gender" : "female",
+        "region" : "california"
+    },
+    {
+        "text" : "Python is amazing for data science.",
+        "age" : "21",
+        "gender" : "male",
+        "region" : "california"
+    },
+    {
+        "text" : "I love trying to finding a fix for a bugs in python.",
+        "age" : "40",
+        "gender" : "female",
+        "region" : "california"
+    },
+    {
+        "text" : "There are other languages that are easier to use.",
+        "age" : "21",
+        "gender" : "female",
+        "region" : "Hawaii"
+    },
+     {
+        "text" : "I love Python and I hate other data languages.",
+        "age" : "32",
+        "gender" : "female",
+        "region" : "california"
+    },
+     {
+        "text" : "I love Python with how simple it is to implement.",
+        "age" : "21",
+        "gender" : "female",
+        "region" : "california"
+    }
+]
