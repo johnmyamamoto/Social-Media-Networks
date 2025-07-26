@@ -113,15 +113,15 @@ if __name__ == "__main__":
                 'author': 'alice',
                 'views': ['bob', 'carol', 'dave'],
                 'comments': [
-                    {'user': 'bob',   'content': "Nice post!",       'timestamp': "2025-07-20T10:00"},
-                    {'user': 'carol', 'content': "I agree with Bob.", 'timestamp': "2025-07-20T10:05"}
+                    {'user': 'bob',   'content': "Nice post!",       'timestamp': "2025-07-20T10:00"}
                 ]
             },
             'post2': {
                 'author': 'bob',
                 'views': ['alice', 'carol'],
                 'comments': [
-                    {'user': 'alice', 'content': "Interesting...", 'timestamp': "2025-07-21T11:00"}
+                    {'user': 'alice', 'content': "Interesting...", 'timestamp': "2025-07-21T11:00"},
+                    {'user': 'carol', 'content': "I agree with Bob.", 'timestamp': "2025-07-20T10:05"}
                 ]
             },
             'post3': {
